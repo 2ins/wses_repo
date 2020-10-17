@@ -1,5 +1,5 @@
 [
-  {"title":"Acute Appendicitis 2","subtitle":"","id":"acute_appendicitis","type":"ANT","category":["ABD"]},
+  {"title":"Acute Appendicitis","subtitle":"","id":"acute_appendicitis","type":"ANT","category":["ABD"]},
   {"title":"Antimicrobial regimens for acute diverticulitis","subtitle":"","id":"acute_diverticulitis","type":"ANT","category":["ABD"]},
   {"title":"Skin and Soft Tissue Infections","subtitle":"","id":"skin_soft_tissue_infections","type":"ANT","category":["ABD"]},
   {"title":"Peptic Ulcer","subtitle":"","id":"peptic_ulcer","type":"ANT","category":["ABD"]},
