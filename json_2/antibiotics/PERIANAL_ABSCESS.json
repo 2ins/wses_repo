@@ -1,0 +1,37 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "desc":"BEST CHOICE, NO MRSA suspected"
+    },
+    {
+      "type":"e",
+      "desc":"Amoxicillin/clavulanate 1.2-2.2 g 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Ceftriaxone 2 g 8-hourly + Metronidazole 500 mg 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Cefotaxime 2 g 8-hourly + Metronidazole 500 mg 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Piperacillin/Tazobactam 4.5 g 6- hourly"
+    },
+    {
+      "type":"t",
+      "desc":"If beta-lactam ALLERGY"
+    },
+    {
+      "type":"e",
+      "desc":"Ciprofloxacin 400 mg 8-hourly + Metronidazole 500 mg 6- hourly"
+    },
+    {
+      "type":"es",
+      "desc":"atb therapy is indicated for localized abscesses in immunocompromised pts, incomplete source control, persistent inflammatory signs, and surrounding cellulitis"
+    }
+
+  ]
+}

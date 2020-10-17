@@ -1,0 +1,65 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "desc":"Critically ill patient, with normal renal funtion, community acquired intra-abdominal infection"
+    },
+    {
+      "type":"t",
+      "desc":"BEST CHOICE"
+    },
+    {
+      "type":"e",
+      "desc":"Piperacillin/Tazobactam\n4.5 g 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Cefepime 2 g 8-hourly +\nMetronidazole 500 mg 6-\nhourly"
+    },
+    {
+      "type":"t",
+      "desc":"+"
+    },
+    {
+      "type":"e",
+      "desc":"Doripenem 500 mg 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Imipenem/Cilastin 1 g 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Ceftolozane /Tazobactam 1.5 g 8-hourly + Metronidazole 500 mg 6-hourly "
+    },
+    {
+      "type":"es",
+      "desc":"IN CARBAPENEM-SPARING REGIMEN"
+    },
+    {
+      "type":"d"
+
+    },
+    {
+      "type":"t",
+      "desc":"IF high risk of Enterococci (immunocompromised or recent antibiotic exposure) "
+    },
+    {
+      "type":"e",
+      "desc":"Ampicillin 2 g 6-hourly if the patients are not being treated with PIPE/TAZO or IMIPENEM/CILASTIN"
+    },
+    {
+      "type":"d"
+
+    },
+    {
+      "type":"es",
+      "desc": "If beta-lactam ALLERGY: consider as in non critically ill patients "
+    },
+    {
+      "type":"es",
+      "desc": "* an increase of 2 points or more in the Sequential Organ Failure Assessment (SOFA) score"
+    }
+
+  ]
+}

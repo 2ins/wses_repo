@@ -1,0 +1,183 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "desc":"Empiric antibiotic regimens. Normal renal function"
+    },
+    {
+      "type":"es",
+      "desc":"In patients with no risk for multidrug resistant organism"
+    },
+    {
+      "type":"es",
+      "desc":"One of following antibiotics"
+    },
+    {
+      "type":"e",
+      "desc":"Piperacillin/Tazobactam 4.5 g 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Tigecycline 100 mg initial dose, then 50 mg 12-hourly (Carbapenem sparing strategy)"
+    },
+    {
+      "type":"e",
+      "desc":"Meropenem 1 g 8-hourly +/- Ampicillin 2 g 6-hourly (critically ill patients)"
+    },
+    {
+      "type":"e",
+      "desc":"Doripenem 500 mg 8-hourly +/- Ampicillin 2 g 6-hourly (critically ill patients)"
+    },
+    {
+      "type":"e",
+      "desc":"Imipenem/Cilastatin 500 mg 6-hourly (critically ill patients)"
+    },
+    {
+      "type":"e",
+      "desc":"+/-"
+    },
+    {
+      "type":"es",
+      "desc":"In patients at high risk for invasive candidiasis"
+    },
+    {
+      "type":"e",
+      "desc":"Fluconazole 800 mg LD then 400 mg 24-hourly\n\n"
+    },
+    {
+      "type":"e",
+      "desc":"In patients with documented beta-lactam allergy consider use of "
+    },
+    {
+      "type":"e",
+      "desc":"antibiotic combinations with Amikacin 15–20 mg/kg 24-hourly"
+    },
+    {
+      "type":"t",
+      "desc":"In patients with high risk for multidrug resistant organism"
+    },
+    {
+      "type":"es",
+      "desc":"One of following antibiotics"
+    },
+    {
+      "type":"e",
+      "desc":"Tigecycline 100 mg LD, then 50 mg 12-hourly (No active against Pseudomonas aeruginosa)"
+    },
+    {
+      "type":"e",
+      "desc":"Eravacycline 1 mg/kg 12-hourly (No active against Pseudomonas aeruginosa)  + Piperacillin/Tazobactam 4.5 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"OR"
+    },
+    {
+      "type":"es",
+      "desc":"In critically ill patients"
+    },
+    {
+      "type":"es",
+      "desc":"one of the following antibiotics"
+    },
+    {
+      "type":"e",
+      "desc":"Meropenem 1 g 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Doripenem 500 mg 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Imipenem/Cilastatin 500 mg 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"+"
+    },
+    {
+      "type":"es",
+      "desc":"One of the following antibiotics"
+    },
+    {
+      "type":"e",
+      "desc":"Vancomycin 25–30 mg/kg loading dose then 15–20 mg/kg/dose 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Teicoplanin 12 mg/kg 12-hourly times 3 loading doses then 12 mg/kg 24-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"+/-"
+    },
+    {
+      "type":"es",
+      "desc":"In patients with high risk for invasive candidiasis"
+    },
+    {
+      "type":"es",
+      "desc":"In stable patients"
+    },
+    {
+      "type":"e",
+      "desc":"Fluconazole 800 mg LD then 400 mg 24-hourly"
+    },
+
+    {
+      "type":"es",
+      "desc":"In unstable patients"
+    },
+    {
+      "type":"es",
+      "desc":"one of the following antifungal agents"
+    },
+    {
+      "type":"e",
+      "desc":"caspofungin 70 mg LD, then 50 mg daily"
+    },
+    {
+      "type":"e",
+      "desc":"Anidulafungin 200 mg LD, then 100 mg daily"
+    },
+    {
+      "type":"e",
+      "desc":"Micafungin 100 mg daily"
+    },
+    {
+      "type":"e",
+      "desc":"Amphotericin B Liposomal 3 mg/kg daily"
+    },
+    {
+      "type":"e",
+      "desc":"In patients with suspected or proven infection with MDR (non-metallo-beta-lactamase-producing) Pseudomonas aeruginosa consider use of antibiotic combinations with Ceftolozane /Tazobactam."
+    },
+    {
+      "type":"e",
+      "desc":"In patients with suspected or proven infection with carbapenemase-producing Klebsiella pneumoniae and MDR (non-metallo-beta-lactamase-producing) Pseudomonas aeruginosa consider use of antibiotic combinations with Ceftazidime/Avibactam."
+    },
+    {
+      "type":"e",
+      "desc":"In patients with suspected or proven infection with vancomycin-resistant enterococci (VRE) including patients with previous enterococcal infection or colonization, immunocompromised patients, patients with long ICU stay, or recent Vancomycin exposure"
+    },
+    {
+      "type":"es",
+      "desc":"One of the following antibiotics"
+    },
+    {
+      "type":"e",
+      "desc":"Tigecycline 100 mg LD, then 50 mg 12-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Linezolid 600 mg 12-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"n patients with documented beta-lactam allergy consider use of antibiotic combinations with Amikacin 15–20 mg/kg daily."
+    }
+
+
+  ]
+}

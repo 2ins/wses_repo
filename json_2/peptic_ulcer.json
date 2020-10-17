@@ -1,0 +1,77 @@
+{
+  "elems":[
+
+
+
+    {
+      "type":"t",
+      "desc":"Standard triple therapy",
+
+    },
+
+    {
+      "type":"e",
+      "desc":"PPI standard dose twice a day"
+
+    },
+
+    {
+      "type":"e",
+      "desc":"Clarithromycin 500 mg twice a day"
+    },
+    {
+      "type":"e",
+      "desc":"Amoxicillin 1000 mg twice a day OR Metronidazole 500 mg twice a day"
+    },
+
+    {
+      "type":"d"
+    },
+
+    {
+      "type":"es",
+      "desc":"Sequential therapy (in selected cases, if compliance to the scheduled regimen can be maintained, and if clarithromycin high resistance is detected. It is defined as the use of one PPI and amoxicillin for the first 5 days followed by PPI plus clarithromycin and metronidazole for the next 5 days)"
+    },
+
+
+
+    {
+      "type":"e",
+      "desc":"PPI standard dose twice a day"
+    },
+
+    {
+      "type":"e",
+      "desc":"Amoxicilllin 1000 mg twice a day"
+    },
+    {
+      "type":"e",
+      "desc":"Clarithromycin 500 mg twice a day"
+    },
+    {
+      "type":"e",
+      "desc":"Metronidazole 500 mg twice a day"
+    },
+    {
+      "type":"d"
+    },
+
+    {
+      "type":"es",
+      "desc":"If any of these regimens failed, a second-line therapy is represented by a 10-day levofloxacin-amoxicillin triple therapy. The suggested doses are:"
+    },
+    {
+      "type":"e",
+      "desc":"PPI standard dose twice a day"
+    },
+
+    {
+      "type":"e",
+      "desc":"Levofloxacin 500 mg once a day OR 250 twice a day"
+    },
+    {
+      "type":"e",
+      "desc":"Amoxicillin 1000 mg twice a day"
+    }
+  ]
+}

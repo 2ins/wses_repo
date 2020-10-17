@@ -1,0 +1,81 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "desc":"Empiric antibiotic regimens. Normal renal function"
+    },
+    {
+      "type":"es",
+      "desc":"One of following antibiotics"
+    },
+    {
+      "type":"e",
+      "desc":"Amoxicillin/clavulanate* 1.2-2.2 g 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Piperacillin/Tazobactam* 4.5 g 6-hourly (critically ill patients)"
+    },
+    {
+      "type":"e",
+      "desc":"Ceftriaxone 2 g 24-hourly + Metronidazole 500 mg 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Cefotaxime 2g 8-hourly + Metronidazole 500 mg 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"OR"
+    },
+    {
+      "type":"es",
+      "desc":"In patients with beta-lactam allergy"
+    },
+    {
+      "type":"t",
+      "desc":"A fluoroquinolone-based regimen"
+    },
+    {
+      "type":"e",
+      "desc":"Ciprofloxacin* 400 mg 8/12-hourly + Metronidazole 500 mg 6- hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Or"
+    },
+    {
+      "type":"es",
+      "desc":"In patients at high risk for infection with community-acquired ESBL-producing Enterobacteriaceae"
+    },
+    {
+      "type":"es",
+      "desc":"One of the following antibiotics"
+    },
+    {
+      "type":"e",
+      "desc":"Tigecycline* 100 mg LD, then 50 mg 12-hourly (Carbapenem-sparing strategy)"
+    },
+    {
+      "type":"e",
+      "desc":"Ertapenem 1 g 24 hourly (No active against Pseudomonas aeruginosa)"
+    },
+    {
+      "type":"e",
+      "desc":"Meropenem 1 g 8-hourly (only in patients with septic shock)"
+    },
+    {
+      "type":"e",
+      "desc":"Doripenem 500 mg 8-hourly (only in patients with septic shock)"
+    },
+    {
+      "type":"e",
+      "desc":"Imipenem/Cilastatin 500 mg 6-hourly (only patients with septic shock)"
+    },
+    {
+      "type":"es",
+      "desc":"*High biliary penetration activityIn patients at high risk for infection with Enterococci including immunocompromised patients or patients with recent antibiotic exposure consider use of Ampicillin 2 g 6-hourly if the patients are not being treated with Piperacillin/Tazobactam or Imipenem/Cilastatin (active against ampicillin-susceptible enterococci) or Tigecycline."
+    }
+
+  ]
+}

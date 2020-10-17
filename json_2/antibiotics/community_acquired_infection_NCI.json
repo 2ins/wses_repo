@@ -1,0 +1,58 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "desc":"Non critically ill patient, with normal renal function, community acquired infection"
+    },
+    {
+      "type":"t",
+      "desc":"BEST CHOICE"
+    },
+    {
+      "type":"e",
+      "desc":"Amoxicillin/clavulanate 1.2-2.2 g 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Ceftriazone 2 g 24-hourly + Metronidazole 500 mg 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Cefotaxime 2g 8-hourly + Metronidazole 500 mg 6-hourly"
+    },
+    {
+      "type":"d"
+
+    },
+    {
+      "type":"t",
+      "desc":"If beta-lactam ALLERGY"
+    },
+    {
+      "type":"e",
+      "desc":"Ciprofloxacin 400 mg 8-hourly + Metronidazole 500 mg 6- hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Moxifloxacin 400 24-hourly"
+    },
+    {
+      "type":"d",
+      "desc":""
+    },
+    {
+      "type":"t",
+      "desc":"In case of risk for infection with CA ESBL-producing Enterobacteriacea"
+    },
+    {
+      "type":"e",
+      "desc": "Ertapenem 1 g 24 hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Tigecycline 100 mg initial dose, then 50 mg 12-hourly"
+    }
+
+
+  ]
+}

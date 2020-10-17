@@ -1,0 +1,22 @@
+{
+  "elems":[
+    {
+      "type":"e",
+      "desc":"oral metronidazole 500 mg three times per day for 10 days has been used for treating mild-to-moderate cases of CDI"
+    },
+    {
+      "type":"d"
+    },
+    {
+      "type":"e",
+      "desc":"Vancomycin orally 125 mg four times daily for 10 days is considered superior to metronidazole in severe C. difficile disease"
+    },
+    {
+      "type":"d"
+    },
+    {
+      "type":"e",
+      "desc":"Fidaxomicin orally 200 mg twice daily for 10 days may be a valid alternative to vancomycin in patients with CDI\n\n"
+    }
+  ]
+}

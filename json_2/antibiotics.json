@@ -1,0 +1,17 @@
+[
+  {"title":"Acute Appendicitis","subtitle":"","id":"acute_appendicitis","type":"ANT","category":["ABD"]},
+  {"title":"Antimicrobial regimens for acute diverticulitis","subtitle":"","id":"acute_diverticulitis","type":"ANT","category":["ABD"]},
+  {"title":"Skin and Soft Tissue Infections","subtitle":"","id":"skin_soft_tissue_infections","type":"ANT","category":["ABD"]},
+  {"title":"Peptic Ulcer","subtitle":"","id":"peptic_ulcer","type":"ANT","category":["ABD"]},
+  {"title":"Clostridium Difficile Colitis","subtitle":"","id":"clostridium_difficile_colitis","type":"ANT","category":["ABD"]},
+  {"title":"Acute Calculous Cholecystitis","subtitle":"","id":"acute_calculous_cholecystitis","type":"ANT","category":["ABD"]},
+  {"title":"Acute cholangitis","subtitle":"","id":"acute_cholangitis","type":"ANT","category":["ABD"]},
+  {"title":"Small Bowel Perforation","subtitle":"","id":"small_bowel_perforation","type":"ANT","category":["ABD"]},
+  {"title":"Postoperative Peritonitis","subtitle":"","id":"postoperative_peritonitis","type":"ANT","category":["ABD"]},
+  {"title":"Critically ill patient, with normal renal funtion, community acquired intra-abdominal infection","subtitle":"","id":"community_acquired_intra_abdominal_infection_CI","type":"ANT","category":["ABD"]},
+  {"title":"Non critically ill patient, with normal renal function, community acquired infection","subtitle":"","id":"community_acquired_infection_NCI","type":"ANT","category":["ABD"]},
+  {"title":"Critically ill patient, with normal renal funtion, hospital-acquired intra-abdominal infection","subtitle":"","id":"CRITICALLY_ILL_HA_IAI","type":"ANT","category":["ABD"]},
+  {"title":"Non critically ill patient, with normal renal function, hospital-acquired infection","subtitle":"","id":"NON_CRITICALLY_ILL_HA_IAI","type":"ANT","category":["ABD"]},
+  {"title":"Erysipelas, cellulitis, superficial abscess","subtitle":"","id":"ERYSIPELAS_CELLULITIS_SUPERFICIAL_ABSCESS", "type":"ANT","category":["SKN"]},
+  {"title":"Perianal abscess","subtitle":"","id":"PERIANAL_ABSCESS", "type":"ANT","category":["SKN"]}
+]

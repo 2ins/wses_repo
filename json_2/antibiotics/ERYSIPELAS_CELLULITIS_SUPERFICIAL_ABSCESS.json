@@ -1,0 +1,26 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "desc":"BEST CHOICE, NO MRSA suspected"
+    }, {
+      "type":"e",
+      "desc":"Amoxicillin/clavulanate 1.2-2.2 g 6-hourly"
+    },{
+      "type":"d",
+      "desc":""
+    },{
+      "type":"t",
+      "desc":"If beta-lactam ALLERGY"
+    },{
+      "type":"e",
+      "desc":"Levofloxacin 500 mg 12/24- hourly"
+    },{
+      "type":"e",
+      "desc":"Moxifloxacin 400 mg 24-hourly"
+    },{
+      "type":"es",
+      "desc":"°: atb therapy is indicated for localized abscesses in immunocompromised pts, incomplete source\ncontrol, persistent inflammatory signs, and surrounding cellulitis"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "desc":"BEST CHOICE"
+    },
+    {
+      "type":"e",
+      "desc":"Meropenem 1 g 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Doripenem 500 mg 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Imipenem/Cilastin 1 g 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Ceftolozane /Tazobactam 1.5 g 8-hourly + Metronidazole 500 mg 6-hourly (IN A CARBAPENEM- SPARING REGIMEN)"
+    },
+    {
+      "type":"e",
+      "desc":"Ceftazidime/Avibactam 2.5 g 8-hourly + Metronidazole 500 mg 6-hourly IN A CARBAPENEM- SPARING REGIMEN"
+    },
+    {
+      "type":"d",
+      "desc":""
+    },
+    {
+      "type":"t",
+      "desc":"If beta-lactam ALLERGY"
+    },
+    {
+      "type":"e",
+      "desc":"Amikacin 15–20 mg/kg 24- hourly + + Metronidazole 500 mg 6-hourly"
+    },
+    {
+      "type":"d",
+      "desc":""
+    },
+    {
+      "type":"es",
+      "desc":"NON E' MOLTO CHIARO QUI COME IMPLEMENTARE LA TABELLA"
+    },
+    {
+      "type":"e",
+      "desc":"+ Vancomycin 25–30 mg/kg loading dose then 15–20 mg/kg/dose 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Or "
+    },
+    {
+      "type":"e",
+      "desc":"Teicoplanin 12 mg/kg 12-hourly times 3 loading dose then 12 mg/kg 24-hourly"
+    },
+    {
+      "type":"d",
+      "desc":""
+    },
+    {
+      "type":"t",
+      "desc":"In risk for VRE"
+    },
+    {
+      "type":"es",
+      "desc":"(previous enterococcal infection or colonization, immunocompromised patients, patients with long ICU stay, or recent Vancomycin exposure)"
+    },
+    {
+      "type":"e",
+      "desc":"Linezolid 600 mg 12-hourly"
+    },
+    {
+      "type":"es",
+      "desc":"Also in allergic pts"
+    },
+    {
+      "type":"e",
+      "desc":"Daptomycin 6 mg/kg 24-hourly"
+    },
+    {
+      "type":"es",
+      "desc":"Also in allergic pts"
+    },
+    {
+      "type":"t",
+      "desc":"In SUSPECTED or PROVEN infection from KPC"
+    },
+    {
+      "type":"e",
+      "desc":"Consider use of antibiotics combination with Ceftazidime/Avibactam"
+    },
+    {
+      "type":"t",
+      "desc":"In SUSPECTED or PROVEN infection from Pseudomonas aeruginosa MDR"
+    },
+    {
+      "type":"e",
+      "desc":"Consider use of antibiotics combination with Ceftolozane /Tazobactam"
+    },
+    {
+      "type":"t",
+      "desc":"+/- In risk for INVASIVE CANDIDIASIS"
+    },
+    {
+      "type":"e",
+      "desc":"Echinocandins:"
+    },
+    {
+      "type":"e",
+      "desc":"Caspofungin (70 mg LD, then 50 mg daily)"
+    },
+    {
+      "type":"e",
+      "desc":"Anidulafungin (200 mg LD, then 100 mg daily)"
+    },
+    {
+      "type":"e",
+      "desc":"Micafungin (100 mg daily)"
+    },
+    {
+      "type":"e",
+      "desc":"Amphotericin B Liposomal 3 mg/kg/dose 24-hourly"
+    }
+  ]
+}

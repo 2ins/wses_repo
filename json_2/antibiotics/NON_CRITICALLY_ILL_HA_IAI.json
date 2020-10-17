@@ -1,0 +1,73 @@
+{
+  "elems":[
+    {
+      "type":"t",
+      "desc":"BEST CHOICE"
+    },
+    {
+      "type":"e",
+      "desc":"Piperacillin/ Tazobactam 4.5g6- hourly"
+    },
+    {
+      "type":"d",
+      "desc":""
+    },
+    {
+      "type":"t",
+      "desc":"If beta-lactam ALLERGY"
+    },
+    {
+      "type":"e",
+      "desc":"Amikacin 15–20 mg/kg 24-hourly\n+Metronidazole 500 mg 6-hourly"
+    },
+    {
+      "type":"d",
+      "desc":""
+    },
+    {
+      "type":"t",
+      "desc":"In patients at risk for MDROs"
+    },
+    {
+      "type":"es",
+      "desc":"(including recent antibiotic exposure, patient living in a nursing home or long-stay care with an indwelling catheter, or post-operative IAI)"
+    },
+    {
+      "type":"e",
+      "desc":"Meropenem 1 g 8-hourly +/- Ampicillin 2 g 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Meropenem 1 g 8-hourly +/- Ampicillin 2 g 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Doripenem 500 mg 8-hourly +/- Ampicillin 2 g 6-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Imipenem/Cilastatin 1 g 8-hourly"
+    },
+    {
+      "type":"e",
+      "desc":"Pipe/Tazobactam 4.5 g 6-hourly + Tigecycline 100 mg initial dose, then 50 mg 12-hourly (IN A CARBAPENEM-SPARING REGIMEN)"
+    },
+    {
+      "type":"d",
+      "desc":""
+    },
+    {
+      "type":"t",
+      "desc":"+/-"
+    },
+    {
+      "type":"t",
+      "desc":"In risk for INVASIVE CANDIDIASIS"
+    },
+    {
+      "type":"e",
+      "desc":"Fluconazole 800 mg LD then 400 mg 24-hourly"
+    }
+
+  ]
+}
